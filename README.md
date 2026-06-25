@@ -1,4 +1,4 @@
-# Awesome Artificial Intelligence
+# AI Learning Resources - Awesome Artificial Intelligence
 
 A curated collection of **must-use, actively maintained resources** for building and shipping AI systems.
 
